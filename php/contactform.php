@@ -10,7 +10,7 @@ die("No se puede conectar a la base de datos:" . mysqli_connect_error());
 }else{
 
 	// Correo principal
-	$correo_it_to = "jesusgerard2008@gmail.com";
+	$correo_it_to = "luis@ovalles.net";
 
 	$nombre=$_POST['nombre'];
 	$correo=$_POST['correo'];
