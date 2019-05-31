@@ -1,0 +1,3 @@
+.ui-tabs .ui-tabs-nav li.ui-state-active a::after, body:not(.woocommerce-page) table tr:hover td, body:not(.woocommerce-page) table tr:hover td a {
+    color: #132088;
+}
